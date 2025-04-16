@@ -35,9 +35,9 @@ Since the program looks for `~`, we simply entered:
 ```
 After inputting `~`, the server responded with:
 ```
-REDFOX{example_flag_here}
+REDFOX{SO_W3_Wi1L_jU5T_bR1B3_Th3_Mar!n3s_WHIL3_C0mm1t1nG_W4R_Cr1m3s !!} 
+
 ```
-(Replace with the actual flag)
 
 ---
 
@@ -45,11 +45,6 @@ REDFOX{example_flag_here}
 - `nc` (Netcat) for remote interaction
 - `vim`/`nano` for viewing `warmup.asm`
 - Assembly analysis to understand program logic
-
----
-
-## Conclusion
-This challenge tested **basic reverse engineering skills** by analyzing a simple assembly file. By understanding how input is processed and matched, we successfully retrieved the flag! 🚀
 
 ---
 

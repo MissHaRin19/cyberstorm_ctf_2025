@@ -29,7 +29,8 @@ strings easy
 ```
 This command displayed all readable text line by line. While scanning through the output, we found:
 ```
-The secret code is: <some_code>
+The secret code is: 6BKJ0cGB35S3 
+
 ```
 
 ### Step 3: Sending the Secret Code
@@ -43,7 +44,8 @@ Since the server had a **short timeout**, we had to paste the secret code immedi
 
 ## Flag
 ```
-REDFOX{example_flag_here}
+REDFOX{1_4M_K0Zuk1_0d3n! }
+
 ```
 (Replace with the actual flag)
 
@@ -55,11 +57,5 @@ REDFOX{example_flag_here}
 - `nc` (Netcat for interacting with the server)
 
 ---
-
-## Conclusion
-This was a simple yet time-sensitive **Reverse Engineering** challenge. By quickly extracting and submitting the secret code, we successfully obtained the flag! 🚀
-
----
-
 
 
